@@ -45,7 +45,7 @@ $(document).ready(function(){
 						}
 						//Changed the image the the next one in the array
 						$('#insta_pic').attr('src',arr[sec]);
-						//$('#text').text(obj[sec]);
+						$('#text').text(obj[sec]);
 						++sec; 
 					}, 1000);
 				threadStatus = false;
