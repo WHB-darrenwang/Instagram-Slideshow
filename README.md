@@ -8,4 +8,5 @@ You can get a JSON string by pressing the 'Get JSON' button.
 ## Features to be added
 Allow user to upload JSON file to start slideshow. Allow user to more customization in his/her slideshow. <br><br>
 ![Screen Shot 2019-04-03 at 10 08 09 PM](https://user-images.githubusercontent.com/26124862/55525014-5df81f00-565d-11e9-930c-a54e1d8d9e75.png)
+(Image from National Geographic's Instagram @natgeo)
 
