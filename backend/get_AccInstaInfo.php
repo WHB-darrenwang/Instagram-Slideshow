@@ -48,8 +48,7 @@ $objects_in_pic = [];
 $urlnames = "";
 
 #Extract picture URLs from $info
-$pattern = '#thumbnail_src":"(.*?)","thu#
-';
+$pattern = '#thumbnail_src":"(.*?)","thu#';
 if($image_rec) $pattern = '#_src":"(.*?)","thu[^|]*?ain: (.*?)"#';
 if(preg_match_all($pattern, $info, $match)){
 	foreach ($match[1] as $url) {
